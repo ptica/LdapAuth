@@ -1,5 +1,5 @@
 {
-  "name": "ptica/UfalAuth",
+  "name": "ptica/LdapAuth",
   "type": "cakephp-plugin",
   "version": "0.0.1",
   "require": {
